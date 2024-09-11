@@ -2,7 +2,7 @@
 
 -> A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This game allows two players to play Tic-Tac-Toe in the browser.
 
---> Features
+-> Features
 Responsive and interactive game board.
 Two-player gameplay (Player X and Player O).
 Real-time display of the current player’s turn.
